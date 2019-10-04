@@ -1,2 +1,2 @@
 # disconsis.github.io
-everyone gets a webpage !!!
+Everyone gets a webpage !!!
